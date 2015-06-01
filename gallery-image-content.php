@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name: Gallery Image Content Post
-Plugin URI: http://themesnecac.com/gallery-image-content/
+Plugin URI: http://withemes.com/
 Description: Auto add the image gallery or single image lightbox for your content
 Version: 1.0
 Author: Pham Tuan (KanG)
-Author URI: http://wordpress.org/
+Author URI: http://withemes.com/
 License: GPLv2 or later
 Text Domain: gallery-image-content
 
