@@ -1,6 +1,6 @@
 === Gallery Image Content Post ===
 Contributors: bboy8k
-Donate link: http://wordpress.org/
+Donate link: http://themeforest.net/user/pencidesign/portfolio?rel=pencidesign
 Tags: image gallery, gallery image, gallery image content post, gallery image content post wordpress, gallery image content post, lightbox image content post, lightbox image plugin, gallery image plugin, gallery, galleries, image, jquery, lightbox photo, gallery photo, gallery photo plugin
 Requires at least: 3.5
 Tested up to: 4.2
