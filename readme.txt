@@ -61,6 +61,8 @@ Also, you can override the CSS of this plugin in other CSS file.
 Do it, you won't lose your changes when you update this plugin.
 
 == Changelog ==
+= 1.1 =
+* Fixed: Some bug for Front-end
 
 = 1.0 =
 * Just release 1.0
