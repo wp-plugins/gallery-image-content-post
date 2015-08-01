@@ -1,0 +1,7 @@
+Thanks to all the great authors who shared their brilliant work and let us use it.
+
+1.Magnific Popup
+/*!
+* Thanks to Dmitry Semenov ( http://dimsemenov.com/plugins/magnific-popup/ )
+* Free to use under the GPLv2 license: http://www.gnu.org/licenses/gpl-2.0.html
+*/
