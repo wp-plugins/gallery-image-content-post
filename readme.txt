@@ -4,7 +4,7 @@ Donate link: http://wordpress.org/
 Tags: image gallery, gallery image, gallery image content post, gallery image content post wordpress, gallery image content post, lightbox image content post, lightbox image plugin, gallery image plugin, gallery, galleries, image, jquery, lightbox photo, gallery photo, gallery photo plugin
 Requires at least: 3.5
 Tested up to: 4.2
-Stable tag: 1.0
+Stable tag: 1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -23,11 +23,13 @@ This plugin will auto add a gallery image or single image lightbox in singular t
 
 To using it in your blog, see the [installation instructions](http://wordpress.org/plugins/gallery-image-content-post/installation/)
 
+To support is better, visit my website: [http://pencidesign.com/](http://pencidesign.com/)
+
 = Support =
 
-Support is handled in the [WordPress forums](http://wordpress.org/support/plugin/gallery-image-content-post). Please note that support is limited.
+Our have a support forum [here](http://support.pencidesign.com/).
 
-Please report any bugs, errors, warnings, code problems to support forum or send an email to me.
+You need a theme? see [our premium themes](http://themeforest.net/user/pencidesign/portfolio?rel=pencidesign).
 
 == Installation ==
 

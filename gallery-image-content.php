@@ -1,15 +1,15 @@
 <?php
 /*
 Plugin Name: Gallery Image Content Post
-Plugin URI: http://withemes.com/
+Plugin URI: http://pencidesign.com/
 Description: Auto add the image gallery or single image lightbox for your content
-Version: 1.0
-Author: Pham Tuan (KanG)
-Author URI: http://withemes.com/
+Version: 1.1
+Author: PenciDesign
+Author URI: http://pencidesign.com/
 License: GPLv2 or later
 Text Domain: gallery-image-content
 
-Copyright @2015  KanG  (email: phamanhtuan1208@gmail.com)
+Copyright @2015  PenciDesign  (email: pencidesign@gmail.com)
 */
 
 // Exit if accessed directly
@@ -39,7 +39,7 @@ if ( ! class_exists( 'Kang_Gallery_Image_Content' ) ) :
 		/**
 		 * Global plugin version
 		 */
-		static $version = '1.0';
+		static $version = '1.1';
 
 		/**
 		 * Kang_Gallery_Image_Content Constructor.
@@ -181,25 +181,32 @@ if ( ! class_exists( 'Kang_Gallery_Image_Content' ) ) :
 		}
 
 		/**
-		 * Display a Settings url on the main plugins page
+		 * Applied to the list of links to display on the plugins page
 		 *
 		 * @access public
 		 *
-		 * @param  array $links
-		 * @param  string $file
-		 *
+		 * @param  array $actions
+		 * @param  string $plugin_file
 		 * @return array
-		 * @since  1.0
+		 * @since  1.1
 		 */
-		public function add_settings_links( $links, $file ) {
+		public function add_settings_links( $actions, $plugin_file ) {
 
-			if ( $file == plugin_basename( __FILE__ ) ) {
-				$plugin_link = '<a href="' . admin_url( 'options-general.php?page=gallery-image-content' ) . '">' . __( 'Settings', GIC ) . '</a>';
-				// make the 'Settings' link appear first
-				array_unshift( $links, $plugin_link );
+			if ( ! isset( $plugin ) )
+				$plugin = plugin_basename( __FILE__ );
+			if ( $plugin == $plugin_file ) {
+
+				$settings     = array( 'settings' => '<a style="color: #ff0000;" href="' . admin_url( 'options-general.php?page=gallery-image-content' ) . '">' . __( 'Settings', GIC ) . '</a>' );
+				$support_link = array( 'support' => '<a style="color: #ff0000;" href="http://support.pencidesign.com/" target="_blank">' . __( 'Support', GIC ) . '</a>' );
+				$more_link    = array( 'more' => '<a style="color: #ff0000;" href="http://themeforest.net/user/pencidesign/portfolio" target="_blank">' . __( 'Need A Theme', GIC ) . '</a>' );
+
+				$actions = array_merge( $settings, $actions );
+				$actions = array_merge( $support_link, $actions );
+				$actions = array_merge( $more_link, $actions );
+
 			}
 
-			return $links;
+			return $actions;
 		}
 
 		/**
