@@ -23,7 +23,7 @@ This plugin will auto add a gallery image or single image lightbox in singular t
 
 To using it in your blog, see the [installation instructions](http://wordpress.org/plugins/gallery-image-content-post/installation/)
 
-To support is better, visit my website: [http://pencidesign.com/](http://pencidesign.com/)
+Subscribe our newsletter [here](http://pencidesign.com/#footer-subscribe)
 
 = Support =
 
