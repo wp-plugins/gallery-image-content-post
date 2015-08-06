@@ -14,6 +14,12 @@ Auto add the lightbox gallery or single image lightbox for your content post
 
 This plugin will auto add a gallery image or single image lightbox in singular template. Auto for all. You just need installation it.
 
+Subscribe our newsletter [here](http://pencidesign.com/#footer-subscribe)
+
+You need a theme? see [our premium themes](http://themeforest.net/user/pencidesign/portfolio?rel=pencidesign).
+
+You need a nice wordpress slider plugin? see [Penci Slider](https://wordpress.org/plugins/penci-slider/) free plugin.
+
 <h4>Outstanding Features:</h4>
 * Responsive design
 * Ajax load image to view large image
@@ -22,12 +28,6 @@ This plugin will auto add a gallery image or single image lightbox in singular t
 * Easy switch image gallery to single image light box
 
 To using it in your blog, see the [installation instructions](http://wordpress.org/plugins/gallery-image-content-post/installation/)
-
-Subscribe our newsletter [here](http://pencidesign.com/#footer-subscribe)
-
-You need a theme? see [our premium themes](http://themeforest.net/user/pencidesign/portfolio?rel=pencidesign).
-
-You need a nice wordpress slider plugin? see [Penci Slider](https://wordpress.org/plugins/penci-slider/) free plugin.
 
 = Support =
 
