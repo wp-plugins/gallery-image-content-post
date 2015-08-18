@@ -18,8 +18,6 @@ Subscribe our newsletter [here](http://pencidesign.com/#footer-subscribe)
 
 You need a theme? see [our premium themes](http://themeforest.net/user/pencidesign/portfolio?rel=pencidesign).
 
-You need a nice wordpress slider plugin? see [Penci Slider](https://wordpress.org/plugins/penci-slider/) free plugin.
-
 <h4>Outstanding Features:</h4>
 * Responsive design
 * Ajax load image to view large image
@@ -31,7 +29,7 @@ To using it in your blog, see the [installation instructions](http://wordpress.o
 
 = Support =
 
-Our have a support forum [here](http://support.pencidesign.com/).
+Support is handled in the [WordPress forums](https://wordpress.org/support/plugin/gallery-image-content-post). Please note that support is limited and does not cover any custom implementation of the plugin.
 
 == Installation ==
 
