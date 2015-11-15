@@ -16,7 +16,7 @@ This plugin will auto add a gallery image or single image lightbox in singular t
 
 Subscribe our newsletter [here](http://pencidesign.com/#footer-subscribe)
 
-You need a theme? see [our premium themes](http://themeforest.net/user/pencidesign/portfolio?rel=pencidesign).
+You need a theme? see [our premium themes](http://themeforest.net/user/pencidesign/portfolio?ref=PenciDesign).
 
 <h4>Outstanding Features:</h4>
 * Responsive design
